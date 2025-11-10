@@ -1,7 +1,7 @@
 # Badges
-**MongoDB Overview**
+**MongoDB Overview:**
 <https://www.credly.com/badges/9a25ef03-9791-437a-8a08-b9eb091302e6><br>
-**Relational to Document Model**
+**Relational to Document Model:**
 <https://www.credly.com/badges/d17499ee-c6f6-45de-a684-a041790ddf46>
 
 # Questions
