@@ -1,8 +1,11 @@
 # Badges
 **MongoDB Overview:**
-<https://www.credly.com/badges/9a25ef03-9791-437a-8a08-b9eb091302e6><br>
+<https://www.credly.com/badges/9a25ef03-9791-437a-8a08-b9eb091302e6>
+<img src="/images/mangodb overview.png">
+<br>
 **Relational to Document Model:**
 <https://www.credly.com/badges/d17499ee-c6f6-45de-a684-a041790ddf46>
+<img src="/images/relational model.png">
 
 # Questions
 - Relational databases like MySQL store data in structured tables with fixed schemas and use JOINs (INNER, OUTER, LEFT, RIGHT) to create relations between data across tables. In contrast, document databases like MongoDB store flexible, JSON-like documents that can embed related data, reducing the need for complex joins.
